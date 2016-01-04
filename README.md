@@ -4,4 +4,4 @@ Uses ImageMagick and Node.js with AWS Lambda Function to perform simple image pr
 
 The files are read from a bucket, filtered, processed, and loaded into a second bucket with resized files.
 
-See installation instructionsmodule here:
+See node.js modules installation instructions here:
